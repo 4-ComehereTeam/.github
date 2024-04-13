@@ -17,6 +17,7 @@
 4. <a href="#contents">🖥️ 화면 소개</a>
 5. <a href="#developers">👥 팀원 소개</a>
 
+<br>
 
 ## ⚒️ 기술스택
 <a name="skills"></a>
@@ -35,6 +36,7 @@
 ### 협업
 <img width="685" alt="image" src="https://github.com/4-ComehereTeam/.github/assets/102746730/27a97310-40a8-4bd1-abdd-a8615199f2a3">
 
+
 ## ⚙️시스템 아키텍처
 <a name="systemArchitecture"></a>
 <img width="1916" alt="image" src="https://github.com/4-ComehereTeam/.github/assets/102746730/e6269ec2-e345-48f1-8453-12fd682cdbf5">
@@ -42,8 +44,9 @@
 
 ## 💾 ERD 
 <a name="erd"/></a>
+![Copy of ssg_db (4)](https://github.com/4-ComehereTeam/.github/assets/102746730/fd7d12b3-da22-4a47-b24b-d0e5680049fb)
 
-<img width="767" alt="image" src="https://github.com/4-ComehereTeam/.github/assets/102746730/5e4b41e7-c057-4a33-a806-c3f6ad8f586c">
+
 
 ## 🖥 화면소개
 <a name="contents"></a>
