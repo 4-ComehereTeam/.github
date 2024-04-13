@@ -19,10 +19,9 @@
 
 
 ## ⚒️ 기술스택
-<a name="#skills"/>
+<a name="skills"></a>
 
 ### 백엔드
-
 <img width="683" alt="image" src="https://github.com/4-ComehereTeam/.github/assets/102746730/75d3bc51-8514-4c18-937d-eca5e8f458b3">
 
 ### 프론트엔드
@@ -37,25 +36,30 @@
 <img width="685" alt="image" src="https://github.com/4-ComehereTeam/.github/assets/102746730/27a97310-40a8-4bd1-abdd-a8615199f2a3">
 
 ## ⚙️시스템 아키텍처
-<a name="#systemArchitecture" />
+<a name="systemArchitecture"></a>
 <img width="1916" alt="image" src="https://github.com/4-ComehereTeam/.github/assets/102746730/e6269ec2-e345-48f1-8453-12fd682cdbf5">
 
 
 ## 💾 ERD 
-<a name="#erd"/>
+<a name="erd"/></a>
 
 <img width="767" alt="image" src="https://github.com/4-ComehereTeam/.github/assets/102746730/5e4b41e7-c057-4a33-a806-c3f6ad8f586c">
 
 ## 🖥 화면소개
-<a name="#contents" />
+<a name="contents"></a>
 
 
 ## 👥 팀원 소개
-<a name="#developers"/>
+<a name="developers"></a>
+
 |   **Name**   |신다혜|김도형|정예진|정재윤|오승원|
 | :----------: | :-----: | :-----: | :-----: | :-----: | :-----:|
 | **Profile**  || ||| | 
 | **Position** |Leader <br/> BackEnd|BackEnd|BackEnd|Frontend|Frontend|
 |   **Git**    |   |  |  |  |   |
+
+
+
+
 
 
