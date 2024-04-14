@@ -57,9 +57,9 @@
 
 |   **Name**   |신다혜|김도형|정예진|정재윤|오승원|
 | :----------: | :-----: | :-----: | :-----: | :-----: | :-----:|
-| **Profile**  || ||| | 
+| **Profile**  |![신다혜](https://github.com/4-ComehereTeam/.github/assets/102746730/0290ca7c-b485-4668-a4b1-fc2bee424b6f)|![김도형](https://github.com/4-ComehereTeam/.github/assets/102746730/73b47f92-c9c2-4e4d-831c-8857d8a30f60)|![정예진](https://github.com/4-ComehereTeam/.github/assets/102746730/6ff034d5-eb05-43af-9db3-3c71a37f09c1)|![정재윤](https://github.com/4-ComehereTeam/.github/assets/102746730/9cc38dff-4f35-4f41-bdf0-058c44adcf09)|![오승원](https://github.com/4-ComehereTeam/.github/assets/102746730/512f8ca8-8c3e-48a7-ace5-fd84ea60524a)|
 | **Position** |Leader <br/> BackEnd|BackEnd|BackEnd|Frontend|Frontend|
-|   **Git**    |   |  |  |  |   |
+|   **Git**    |[Dahye73](https://github.com/Dahye73)|[ddohyeong](https://github.com/ddohyeong)|[pockyjx](https://github.com/pockyjx)|[ddolboghi](https://github.com/ddolboghi)|[sw-devr](https://github.com/sw-devr)|
 
 
 
