@@ -39,7 +39,7 @@
 
 ## ⚙️시스템 아키텍처
 <a name="systemArchitecture"></a>
-<img width="1916" alt="image" src="https://github.com/4-ComehereTeam/.github/assets/102746730/e6269ec2-e345-48f1-8453-12fd682cdbf5">
+![Web App Reference Architecture (6)](https://github.com/4-ComehereTeam/.github/assets/102746730/30a3ba62-f99a-48b6-b08c-897f057b3b4f)
 
 
 ## 💾 ERD 
