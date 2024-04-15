@@ -1,6 +1,6 @@
 # <img src="https://github.com/4-ComehereTeam/.github/assets/102746730/f976890e-9d05-496e-877e-1ae874b43d96" alt="ssg" width="25" height="25"> SSG.COM 클론코딩
 - 배포 URL : [comhere.shop](https://www.comhere.shop/)
-- Test ID : user
+- Test ID : user12
 - Test PW : comehere1234
 <br>
 
